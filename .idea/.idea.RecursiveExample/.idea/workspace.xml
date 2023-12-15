@@ -11,9 +11,11 @@
   <component name="ChangeListManager">
     <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeLinkedList/PalindromeLinkedList.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeLinkedList/PalindromeLinkedList.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeLinkedList/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PalindromeLinkedList/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveExample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveExample.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfThree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PowerOfThree/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702639868080</updated>
-      <workItem from="1702639871094" duration="2604000" />
+      <workItem from="1702639871094" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -112,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702640355483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="..">
+      <created>1702643303471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702643303471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,16 +164,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/PowerOfThree/Program.cs</url>
-          <line>18</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\Program.cs" initialLine="18" containingFunctionPresentation="method 'IsPowerOfThree'">
+          <line>35</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\Program.cs" initialLine="35" containingFunctionPresentation="method 'IsPowerOfThreeWhile'">
             <startOffsets>
-              <option value="353" />
+              <option value="739" />
             </startOffsets>
             <endOffsets>
-              <option value="364" />
+              <option value="754" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

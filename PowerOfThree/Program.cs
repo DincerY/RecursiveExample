@@ -8,6 +8,7 @@ namespace PowerOfThree
         {
             Solution solution = new();
             solution.IsPowerOfThreeRecursion(0);
+            solution.IsPowerOfThreeWhile(0);
         }
     }
 
@@ -30,7 +31,18 @@ namespace PowerOfThree
 
         public bool IsPowerOfThreeWhile(int n)
         {
-            
+            while (n % 3 == 0 && n != 0)
+            {
+                n = n / 3;
+            }
+
+            if (n == 1)
+            {
+                return true;
+            }
+
+            return false;
         }
+        
     }
 }
