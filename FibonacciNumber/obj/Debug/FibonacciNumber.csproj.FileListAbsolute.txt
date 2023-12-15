@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\bin\Debug\FibonacciNumber.exe
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\bin\Debug\FibonacciNumber.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\obj\Debug\FibonacciNumber.exe
+C:\Users\dince\RiderProjects\RecursiveExample\FibonacciNumber\obj\Debug\FibonacciNumber.pdb
