@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\bin\Debug\RemoveLinkedListElements.exe
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\bin\Debug\RemoveLinkedListElements.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.exe
+C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.pdb

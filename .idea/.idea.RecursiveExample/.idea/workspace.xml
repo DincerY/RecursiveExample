@@ -5,6 +5,7 @@
     <projectFile>FibonacciNumber/FibonacciNumber.csproj</projectFile>
     <projectFile>PalindromeLinkedList/PalindromeLinkedList.csproj</projectFile>
     <projectFile>PowerOfThree/PowerOfThree.csproj</projectFile>
+    <projectFile>RemoveLinkedListElements/RemoveLinkedListElements.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -12,11 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfThree/obj/Debug/PowerOfThree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveExample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveExample.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveLinkedListElements/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveLinkedListElements/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +24,10 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41914444499f4996a3e6af79cf6c1fdb574b98/a8/4294d545/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FibonacciNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PowerOfThree/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +50,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.FibonacciNumber">
+  <component name="RunManager" selected=".NET Project.RemoveLinkedListElements">
     <configuration name="FibonacciNumber" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -139,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702639868080</updated>
-      <workItem from="1702639871094" duration="5578000" />
+      <workItem from="1702639871094" duration="9440000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -169,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702644244059</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="..">
+      <created>1702645723162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702645723162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="..">
+      <created>1702645837977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702645837977</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +247,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RemoveLinkedListElements/Program.cs</url>
+          <line>44</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\Program.cs" initialLine="44" containingFunctionPresentation="method 'RemoveElements'">
+            <startOffsets>
+              <option value="1120" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1140" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
