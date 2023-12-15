@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\bin\Debug\PowerOfThree.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\bin\Debug\PowerOfThree.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\obj\Debug\PowerOfThree.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\obj\Debug\PowerOfThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\obj\Debug\PowerOfThree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\obj\Debug\PowerOfThree.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfThree\obj\Debug\PowerOfThree.pdb

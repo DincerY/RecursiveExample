@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.pdb

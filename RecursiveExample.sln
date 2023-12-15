@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{1290EB4F-B3FF-4103-91A6-E758810D61C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{79DFA2C8-051F-46C4-9329-834F89651E39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1290EB4F-B3FF-4103-91A6-E758810D61C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1290EB4F-B3FF-4103-91A6-E758810D61C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1290EB4F-B3FF-4103-91A6-E758810D61C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DFA2C8-051F-46C4-9329-834F89651E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DFA2C8-051F-46C4-9329-834F89651E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DFA2C8-051F-46C4-9329-834F89651E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DFA2C8-051F-46C4-9329-834F89651E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
