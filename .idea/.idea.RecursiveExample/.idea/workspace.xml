@@ -14,11 +14,11 @@
   <component name="ChangeListManager">
     <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveLinkedListElements/bin/Debug/RemoveLinkedListElements.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveLinkedListElements/bin/Debug/RemoveLinkedListElements.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveLinkedListElements/bin/Debug/RemoveLinkedListElements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveLinkedListElements/bin/Debug/RemoveLinkedListElements.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/RemoveLinkedListElements.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/RemoveLinkedListElements.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/RemoveLinkedListElements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/RemoveLinkedListElements.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReverseLinkedList/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/PowerOfThree/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/dince/RiderProjects/RecursiveExample/RemoveLinkedListElements/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/dince/RiderProjects/RecursiveExample/ReverseLinkedList/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ReverseLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -167,7 +168,7 @@
       <workItem from="1702639871094" duration="9723000" />
       <workItem from="1703054622177" duration="2326000" />
       <workItem from="1703074419355" duration="7951000" />
-      <workItem from="1703085033366" duration="5754000" />
+      <workItem from="1703085033366" duration="6734000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703090157397</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="..">
+      <created>1703091265668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703091265668</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,13 +341,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ReverseLinkedList/Program.cs</url>
-          <line>37</line>
+          <line>38</line>
           <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\Program.cs" initialLine="38" containingFunctionPresentation="local function 'Recursion'">
             <startOffsets>
-              <option value="824" />
+              <option value="859" />
             </startOffsets>
             <endOffsets>
-              <option value="825" />
+              <option value="860" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="34" />
