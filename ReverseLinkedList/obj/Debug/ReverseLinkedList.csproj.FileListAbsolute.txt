@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\bin\Debug\ReverseLinkedList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\bin\Debug\ReverseLinkedList.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\obj\Debug\ReverseLinkedList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\obj\Debug\ReverseLinkedList.pdb
