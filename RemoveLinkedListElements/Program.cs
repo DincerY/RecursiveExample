@@ -1,4 +1,6 @@
-﻿using System.Runtime.InteropServices;
+﻿using System;
+using System.Runtime.InteropServices;
+using System.Runtime.Remoting.Channels;
 
 namespace RemoveLinkedListElements
 {
@@ -18,9 +20,10 @@ namespace RemoveLinkedListElements
             head1.next.next = new ListNode(7);
             head1.next.next.next = new ListNode(7);
 
-            
+
             Solution solution = new();
-            solution.RemoveElements(head, 6);
+            var result = solution.RemoveElementsRecursive(head1, 7);
+            Console.WriteLine();
         }
     }
 
@@ -40,38 +43,43 @@ namespace RemoveLinkedListElements
 
     public class Solution
     {
+        //It is not my solution
         public ListNode RemoveElements(ListNode head, int val)
         {
-            ListNode result = head;
-            while (head!=null && head.val == val)
+            ListNode dummyNode = new ListNode(next: head);
+            ListNode curr = head;
+            ListNode prev = dummyNode;
+
+            while (curr != null)
             {
-                head = head.next;
-            }
-            
-            ListNode prev = head;
-            while (head!=null)
-            {
-                if (head.val == val)
+                ListNode nexxt = curr.next;
+                if (curr.val == val)
                 {
-                    prev.next = head.next;
+                    prev.next = nexxt;
+                }
+                else
+                {
+                    prev = curr;
                 }
 
-                head = head.next;
-
+                curr = nexxt;
             }
-            
-            
 
+            return dummyNode.next;
+        }
 
-
-
-
-
-
-
-
-            
-            return result;
+        public ListNode RemoveElementsRecursive(ListNode head, int val)
+        {
+            ListNode Recursive(ListNode cur)
+            {
+                if (cur == null)
+                    return null;
+                cur.next = Recursive(cur.next);
+                if (cur.val == val)
+                    return cur.next;
+                return cur;
+            }
+            return Recursive(head);
         }
     }
 }

@@ -143,7 +143,9 @@
       <option name="presentableId" value="Default" />
       <updated>1702639868080</updated>
       <workItem from="1702639871094" duration="9723000" />
-      <workItem from="1703054622177" duration="2178000" />
+      <workItem from="1703054622177" duration="2326000" />
+      <workItem from="1703074419355" duration="7951000" />
+      <workItem from="1703085033366" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702649756547</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="..">
+      <created>1703056966526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703056966526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,16 +271,29 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/RemoveLinkedListElements/Program.cs</url>
-          <line>51</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\Program.cs" initialLine="50" containingFunctionPresentation="method 'RemoveElements'">
+          <line>25</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\Program.cs" initialLine="24" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="1315" />
+              <option value="829" />
             </startOffsets>
             <endOffsets>
-              <option value="1333" />
+              <option value="849" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RemoveLinkedListElements/Program.cs</url>
+          <line>53</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\RemoveLinkedListElements\Program.cs" initialLine="53" containingFunctionPresentation="method 'RemoveElements'">
+            <startOffsets>
+              <option value="1401" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1428" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
