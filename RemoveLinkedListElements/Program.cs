@@ -42,9 +42,36 @@ namespace RemoveLinkedListElements
     {
         public ListNode RemoveElements(ListNode head, int val)
         {
+            ListNode result = head;
+            while (head!=null && head.val == val)
+            {
+                head = head.next;
+            }
+            
+            ListNode prev = head;
+            while (head!=null)
+            {
+                if (head.val == val)
+                {
+                    prev.next = head.next;
+                }
+
+                head = head.next;
+
+            }
+            
+            
 
 
-            return null;
+
+
+
+
+
+
+
+            
+            return result;
         }
     }
 }
