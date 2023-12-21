@@ -6,9 +6,9 @@
         {
             ListNode head = new ListNode(1);
             head.next = new ListNode(2);
-            // head.next.next = new ListNode(3);
-            // head.next.next.next = new ListNode(4);
-            // head.next.next.next.next = new ListNode(5);
+            head.next.next = new ListNode(3);
+            head.next.next.next = new ListNode(4);
+            head.next.next.next.next = new ListNode(5);
 
 
             Solution solution = new();
@@ -34,6 +34,8 @@
     {
         public ListNode ReverseList(ListNode head)
         {
+            ListNode result = null;
+            ListNode temp = null;
             void Recursion(ListNode node)
             {
                 if (node == null)
@@ -41,11 +43,19 @@
                     return;
                 }
                 Recursion(node.next);
-                head.next = node;
-                head = head.next;
+                if (result == null)
+                {
+                    result = new(node.val);
+                    temp = result;
+                }
+                else
+                {
+                    result.next = new ListNode(node.val);
+                    result = result.next;
+                }
             }
             Recursion(head);
-            return head.next;
+            return temp;
         }
     }
 }
