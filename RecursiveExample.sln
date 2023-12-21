@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{0CD4131A-C5B4-4462-8145-931F1E221662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfNumber", "PowerOfNumber\PowerOfNumber.csproj", "{651648ED-B2B3-473D-AD3D-A105DD0721E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{0CD4131A-C5B4-4462-8145-931F1E221662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD4131A-C5B4-4462-8145-931F1E221662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD4131A-C5B4-4462-8145-931F1E221662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

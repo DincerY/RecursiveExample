@@ -12,10 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="Accept with Beats 100.00% of users with C#" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PowerOfThree/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/dince/RiderProjects/RecursiveExample/ReverseLinkedList/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ReverseLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -163,7 +161,7 @@
       <workItem from="1703054622177" duration="2326000" />
       <workItem from="1703074419355" duration="7951000" />
       <workItem from="1703085033366" duration="6847000" />
-      <workItem from="1703154406746" duration="335000" />
+      <workItem from="1703154406746" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -249,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703092174926</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Accept with Beats 100.00% of users with C#">
+      <created>1703155132105</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703155132105</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +277,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value=".." />
     <MESSAGE value="Out of memory error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Out of memory error" />
+    <MESSAGE value="Accept with Beats 100.00% of users with C#" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accept with Beats 100.00% of users with C#" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -341,6 +347,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ReverseLinkedList/Program.cs</url>
+          <line>44</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\ReverseLinkedList\Program.cs" initialLine="43" containingFunctionPresentation="local function 'Recursion'">
+            <startOffsets>
+              <option value="1023" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1044" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
