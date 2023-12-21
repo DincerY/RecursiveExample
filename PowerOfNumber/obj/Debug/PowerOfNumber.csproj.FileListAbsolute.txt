@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
