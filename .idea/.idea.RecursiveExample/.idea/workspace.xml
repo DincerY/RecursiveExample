@@ -14,7 +14,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment=".." />
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfNumber/bin/Debug/PowerOfNumber.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/bin/Debug/PowerOfNumber.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfNumber/bin/Debug/PowerOfNumber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/bin/Debug/PowerOfNumber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfNumber/obj/Debug/PowerOfNumber.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/obj/Debug/PowerOfNumber.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfNumber/obj/Debug/PowerOfNumber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/obj/Debug/PowerOfNumber.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReorderList/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReorderList/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReorderList/ReorderList.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ReorderList/ReorderList.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +31,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105da1159ec9496ab9310694c7b11dd2532bb0/bf/918ed4e6/Math.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41914444499f4996a3e6af79cf6c1fdb574b98/a8/4294d545/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CheckPalindromeNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FibonacciNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PowerOfNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PowerOfThree/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RemoveLinkedListElements/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/dince/RiderProjects/RecursiveExample/ReorderList/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ReorderList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ReverseLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -55,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.PowerOfNumber">
+  <component name="RunManager" selected=".NET Project.ReorderList">
     <configuration name="FibonacciNumber" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -205,7 +212,7 @@
       <workItem from="1703074419355" duration="7951000" />
       <workItem from="1703085033366" duration="6847000" />
       <workItem from="1703154406746" duration="12371000" />
-      <workItem from="1703224517714" duration="662000" />
+      <workItem from="1703224517714" duration="6004000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -319,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703234794446</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="..">
+      <created>1703234947389</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703234947389</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,6 +426,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ReorderList/Program.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\Program.cs" initialLine="15" containingFunctionPresentation="method 'Main'">
+            <startOffsets>
+              <option value="399" />
+            </startOffsets>
+            <endOffsets>
+              <option value="419" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
