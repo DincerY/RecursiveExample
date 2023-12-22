@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\bin\Debug\ReorderList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\bin\Debug\ReorderList.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\obj\Debug\ReorderList.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\obj\Debug\ReorderList.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\obj\Debug\ReorderList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\obj\Debug\ReorderList.exe
+C:\Users\dince\RiderProjects\RecursiveExample\ReorderList\obj\Debug\ReorderList.pdb
