@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
+using System.Text;
 
 namespace DecodeString
 {
@@ -22,46 +23,64 @@ namespace DecodeString
     {
         public string DecodeString(string s)
         {
-            Stack<string> stack = new();
-            for (int i = 0; i < s.Length; i++)
+            Stack<object> stack = new Stack<object>();
+            int i = 0;
+
+            while (i < s.Length)
             {
-                string a = "";
-                string power = "";
-                int j = i;
-                if (s[i] != ']')
+                if (char.IsDigit(s[i]))
                 {
-                    stack.Push(s[i].ToString());
+                    int count = 0;
+                    while (i < s.Length && char.IsDigit(s[i]))
+                    {
+                        count = count * 10 + (s[i] - '0');
+                        i++;
+                    }
+                    stack.Push(count);
+                }
+                else if (s[i] == '[')
+                {
+                    stack.Push(s[i]);
+                    i++;
+                }
+                else if (s[i] == ']')
+                {
+                    StringBuilder substr = new StringBuilder();
+                    while (stack.Peek() is string)
+                    {
+                        substr.Insert(0, stack.Pop() as string);
+                    }
+                    stack.Pop(); // Remove '[' from the stack
+                    int repeatCount = (int)stack.Pop();
+
+                    StringBuilder repeatedSubstring = new StringBuilder();
+                    for (int j = 0; j < repeatCount; j++)
+                    {
+                        repeatedSubstring.Append(substr);
+                    }
+
+                    stack.Push(repeatedSubstring.ToString());
+                    i++;
                 }
                 else
                 {
-                    
-                    while (s[j] != '[')
+                    StringBuilder substr = new StringBuilder();
+                    while (i < s.Length && char.IsLetter(s[i]))
                     {
-                        if (stack.Peek() == "[")
-                        {
-                            stack.Pop();
-                        }
-                        else
-                        {
-                            a += stack.Pop();
-                        }
-
-                        j--;
+                        substr.Append(s[i]);
+                        i++;
                     }
-
-                    
-                    while (j > 0)
-                    {
-                        power += stack.Pop();
-                        j--;
-                    }
-                    
-                    stack.Push(string.Concat(Enumerable.Repeat(a, int.Parse(power))));
+                    stack.Push(substr.ToString());
                 }
             }
 
+            StringBuilder result = new StringBuilder();
+            while (stack.Count > 0)
+            {
+                result.Insert(0, stack.Pop() as string);
+            }
 
-            return "";
+            return result.ToString();
         }
     }
 }
