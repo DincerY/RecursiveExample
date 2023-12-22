@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\bin\Debug\NumberOfDigitOne.exe
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\bin\Debug\NumberOfDigitOne.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\obj\Debug\NumberOfDigitOne.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\obj\Debug\NumberOfDigitOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\obj\Debug\NumberOfDigitOne.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\obj\Debug\NumberOfDigitOne.exe
+C:\Users\dince\RiderProjects\RecursiveExample\NumberOfDigitOne\obj\Debug\NumberOfDigitOne.pdb

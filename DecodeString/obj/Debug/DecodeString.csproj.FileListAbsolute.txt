@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\bin\Debug\DecodeString.exe
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\bin\Debug\DecodeString.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\obj\Debug\DecodeString.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\obj\Debug\DecodeString.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\obj\Debug\DecodeString.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\obj\Debug\DecodeString.exe
+C:\Users\dince\RiderProjects\RecursiveExample\DecodeString\obj\Debug\DecodeString.pdb
