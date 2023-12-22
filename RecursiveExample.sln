@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "Revers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfNumber", "PowerOfNumber\PowerOfNumber.csproj", "{651648ED-B2B3-473D-AD3D-A105DD0721E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorderList", "ReorderList\ReorderList.csproj", "{32CF3EF7-DC55-42EA-91DC-38A6218EFCF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{651648ED-B2B3-473D-AD3D-A105DD0721E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CF3EF7-DC55-42EA-91DC-38A6218EFCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CF3EF7-DC55-42EA-91DC-38A6218EFCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CF3EF7-DC55-42EA-91DC-38A6218EFCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CF3EF7-DC55-42EA-91DC-38A6218EFCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

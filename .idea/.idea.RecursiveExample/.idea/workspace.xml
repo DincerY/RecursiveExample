@@ -7,20 +7,16 @@
     <projectFile>PowerOfNumber/PowerOfNumber.csproj</projectFile>
     <projectFile>PowerOfThree/PowerOfThree.csproj</projectFile>
     <projectFile>RemoveLinkedListElements/RemoveLinkedListElements.csproj</projectFile>
+    <projectFile>ReorderList/ReorderList.csproj</projectFile>
     <projectFile>ReverseLinkedList/ReverseLinkedList.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfNumber/PowerOfNumber.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/PowerOfNumber.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerOfNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfNumber/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseLinkedList/obj/Debug/ReverseLinkedList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveExample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveExample.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.PowerOfNumber">
     <configuration name="FibonacciNumber" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -153,6 +149,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="ReorderList" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReorderList/ReorderList.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ReverseLinkedList" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -173,6 +187,7 @@
     </configuration>
     <list>
       <item itemvalue=".NET Project.PowerOfNumber" />
+      <item itemvalue=".NET Project.ReorderList" />
       <item itemvalue=".NET Project.ReverseLinkedList" />
       <item itemvalue=".NET Project.FibonacciNumber" />
       <item itemvalue=".NET Project.PowerOfThree" />
@@ -192,7 +207,7 @@
       <workItem from="1703054622177" duration="2326000" />
       <workItem from="1703074419355" duration="7951000" />
       <workItem from="1703085033366" duration="6847000" />
-      <workItem from="1703154406746" duration="11221000" />
+      <workItem from="1703154406746" duration="12371000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -292,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703155291799</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="..">
+      <created>1703168164170</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703168164170</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,19 +407,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/PowerOfNumber/Program.cs</url>
-          <line>49</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\PowerOfNumber\Program.cs" initialLine="45" containingFunctionPresentation="local function 'Recursion'">
-            <startOffsets>
-              <option value="1061" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1062" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
