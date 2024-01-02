@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\bin\Debug\net8.0\AllPossibleFullBinaryTrees.exe
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\bin\Debug\net8.0\AllPossibleFullBinaryTrees.deps.json
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\bin\Debug\net8.0\AllPossibleFullBinaryTrees.runtimeconfig.json
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\bin\Debug\net8.0\AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\bin\Debug\net8.0\AllPossibleFullBinaryTrees.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.sourcelink.json
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\refint\AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\AllPossibleFullBinaryTrees.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\obj\Debug\net8.0\ref\AllPossibleFullBinaryTrees.dll

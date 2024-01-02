@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeString", "DecodeStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDigitOne", "NumberOfDigitOne\NumberOfDigitOne.csproj", "{C871EE84-D37F-49C9-A047-80320626B2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllPossibleFullBinaryTrees", "AllPossibleFullBinaryTrees\AllPossibleFullBinaryTrees.csproj", "{51556146-959A-41E3-92F6-B0BAC34CE118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{C871EE84-D37F-49C9-A047-80320626B2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C871EE84-D37F-49C9-A047-80320626B2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C871EE84-D37F-49C9-A047-80320626B2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51556146-959A-41E3-92F6-B0BAC34CE118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51556146-959A-41E3-92F6-B0BAC34CE118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51556146-959A-41E3-92F6-B0BAC34CE118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51556146-959A-41E3-92F6-B0BAC34CE118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
