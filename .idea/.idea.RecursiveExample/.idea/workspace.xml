@@ -17,7 +17,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" afterDir="false" />
@@ -300,7 +300,7 @@
       <workItem from="1703571546166" duration="1872000" />
       <workItem from="1704199372610" duration="3329000" />
       <workItem from="1704260992789" duration="4833000" />
-      <workItem from="1704370165761" duration="3260000" />
+      <workItem from="1704370165761" duration="3849000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -472,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704265989058</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="..">
+      <option name="closed" value="true" />
+      <created>1704375361814</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704375361814</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
