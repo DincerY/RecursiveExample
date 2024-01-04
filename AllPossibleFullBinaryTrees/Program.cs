@@ -1,4 +1,6 @@
 ﻿
+using System.Security.AccessControl;
+
 Solution solution = new();
 var result = solution.AllPossibleFBT(7);
 Console.WriteLine(result);
@@ -24,6 +26,10 @@ public class Solution
 {
     public IList<TreeNode> AllPossibleFBT(int n)
     {
+        if (n % 2 == 0)
+        {
+            n = n - 1;
+        }
         
         return null;
     }
