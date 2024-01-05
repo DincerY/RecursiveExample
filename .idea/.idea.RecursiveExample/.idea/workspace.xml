@@ -17,7 +17,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="..">
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" afterDir="false" />
@@ -65,7 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.AllPossibleFullBinaryTrees.executor": "Run",
+    ".NET Project.AllPossibleFullBinaryTrees.executor": "Debug",
     ".NET Project.NumberOfDigitOne.executor": "Debug",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -300,7 +300,8 @@
       <workItem from="1703571546166" duration="1872000" />
       <workItem from="1704199372610" duration="3329000" />
       <workItem from="1704260992789" duration="4833000" />
-      <workItem from="1704370165761" duration="3849000" />
+      <workItem from="1704370165761" duration="4248000" />
+      <workItem from="1704433782035" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -480,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704375361814</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="..">
+      <option name="closed" value="true" />
+      <created>1704375378667</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704375378667</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,16 +599,29 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs</url>
-          <line>5</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="4" containingFunctionPresentation="">
+          <line>7</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="7" containingFunctionPresentation="">
             <startOffsets>
-              <option value="107" />
+              <option value="135" />
             </startOffsets>
             <endOffsets>
-              <option value="133" />
+              <option value="170" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="44" />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs</url>
+          <line>33</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="32" containingFunctionPresentation="Local function 'Recursion'">
+            <startOffsets>
+              <option value="739" />
+            </startOffsets>
+            <endOffsets>
+              <option value="740" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
