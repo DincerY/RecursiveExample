@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\bin\Debug\net8.0\EliminationGame.exe
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\bin\Debug\net8.0\EliminationGame.deps.json
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\bin\Debug\net8.0\EliminationGame.runtimeconfig.json
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\bin\Debug\net8.0\EliminationGame.dll
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\bin\Debug\net8.0\EliminationGame.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.sourcelink.json
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.dll
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\refint\EliminationGame.dll
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.pdb
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\EliminationGame.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\obj\Debug\net8.0\ref\EliminationGame.dll

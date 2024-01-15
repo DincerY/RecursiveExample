@@ -4,6 +4,7 @@
     <projectFile>AllPossibleFullBinaryTrees/AllPossibleFullBinaryTrees.csproj</projectFile>
     <projectFile>CheckPalindromeNumber/CheckPalindromeNumber.csproj</projectFile>
     <projectFile>DecodeString/DecodeString.csproj</projectFile>
+    <projectFile>EliminationGame/EliminationGame.csproj</projectFile>
     <projectFile>FibonacciNumber/FibonacciNumber.csproj</projectFile>
     <projectFile>NumberOfDigitOne/NumberOfDigitOne.csproj</projectFile>
     <projectFile>PalindromeLinkedList/PalindromeLinkedList.csproj</projectFile>
@@ -31,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/ref/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/ref/AllPossibleFullBinaryTrees.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/refint/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/refint/AllPossibleFullBinaryTrees.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveExample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveExample.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.AllPossibleFullBinaryTrees.executor": "Debug",
+    ".NET Project.EliminationGame.executor": "Debug",
     ".NET Project.NumberOfDigitOne.executor": "Debug",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -87,7 +90,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.AllPossibleFullBinaryTrees">
+  <component name="RunManager" selected=".NET Project.EliminationGame">
     <configuration name="AllPossibleFullBinaryTrees" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -119,6 +122,24 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="EliminationGame" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EliminationGame/EliminationGame.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" />
@@ -269,6 +290,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.EliminationGame" />
       <item itemvalue=".NET Project.AllPossibleFullBinaryTrees" />
       <item itemvalue=".NET Project.DecodeString" />
       <item itemvalue=".NET Project.NumberOfDigitOne" />
@@ -301,7 +323,12 @@
       <workItem from="1704199372610" duration="3329000" />
       <workItem from="1704260992789" duration="4833000" />
       <workItem from="1704370165761" duration="4248000" />
-      <workItem from="1704433782035" duration="3855000" />
+      <workItem from="1704433782035" duration="4356000" />
+      <workItem from="1704694951835" duration="3089000" />
+      <workItem from="1704698138420" duration="946000" />
+      <workItem from="1704779221892" duration="4325000" />
+      <workItem from="1705037681856" duration="4135000" />
+      <workItem from="1705296876827" duration="3332000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -489,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704375378667</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="..">
+      <option name="closed" value="true" />
+      <created>1704438135487</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1704438135487</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,29 +634,29 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs</url>
-          <line>7</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="7" containingFunctionPresentation="">
+          <line>5</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="5" containingFunctionPresentation="">
             <startOffsets>
-              <option value="135" />
+              <option value="132" />
             </startOffsets>
             <endOffsets>
-              <option value="170" />
+              <option value="158" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="49" />
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs</url>
-          <line>33</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\AllPossibleFullBinaryTrees\Program.cs" initialLine="32" containingFunctionPresentation="Local function 'Recursion'">
+          <url>file://$PROJECT_DIR$/EliminationGame/Program.cs</url>
+          <line>39</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\Program.cs" initialLine="35" containingFunctionPresentation="Method 'LastRemaining'">
             <startOffsets>
-              <option value="739" />
+              <option value="944" />
             </startOffsets>
             <endOffsets>
-              <option value="740" />
+              <option value="960" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="51" />
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

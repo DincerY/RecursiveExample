@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AllPossibleFullBinaryTrees")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EliminationGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("AllPossibleFullBinaryTrees")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AllPossibleFullBinaryTrees")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74a4f7d1ccfe8d7a42016f1d253b42acde41cc3a")]
+[assembly: System.Reflection.AssemblyProductAttribute("EliminationGame")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EliminationGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
