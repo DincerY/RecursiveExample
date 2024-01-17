@@ -18,21 +18,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/ref/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/ref/EliminationGame.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/refint/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/refint/EliminationGame.dll" afterDir="false" />
-    </list>
+    <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="Accept" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +315,7 @@
       <workItem from="1704779221892" duration="4325000" />
       <workItem from="1705037681856" duration="4135000" />
       <workItem from="1705296876827" duration="4551000" />
-      <workItem from="1705471008287" duration="2409000" />
+      <workItem from="1705471008287" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -533,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705300711166</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Accept">
+      <option name="closed" value="true" />
+      <created>1705474073305</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1705474073305</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,10 +550,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Out of memory error" />
     <MESSAGE value="Accept with Beats 100.00% of users with C#" />
-    <MESSAGE value="Accept" />
     <MESSAGE value=".." />
     <MESSAGE value="it is work but out of memory" />
-    <option name="LAST_COMMIT_MESSAGE" value="it is work but out of memory" />
+    <MESSAGE value="Accept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accept" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -654,6 +648,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/EliminationGame/Program.cs</url>
+          <line>89</line>
+          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\Program.cs" initialLine="77" containingFunctionPresentation="Method 'LastRemaining'">
+            <startOffsets>
+              <option value="2634" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2646" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
