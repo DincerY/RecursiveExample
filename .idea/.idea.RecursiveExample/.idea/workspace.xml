@@ -20,19 +20,18 @@
   <component name="ChangeListManager">
     <list default="true" id="28a3d43f-60a5-4564-b8ee-31fe91634240" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RecursiveExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/bin/Debug/net8.0/AllPossibleFullBinaryTrees.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/ref/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/ref/AllPossibleFullBinaryTrees.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/refint/AllPossibleFullBinaryTrees.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/refint/AllPossibleFullBinaryTrees.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveExample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveExample.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/bin/Debug/net8.0/EliminationGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/EliminationGame.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/ref/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/ref/EliminationGame.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/refint/EliminationGame.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/refint/EliminationGame.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/AllPossibleFullBinaryTrees/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/dince/RiderProjects/RecursiveExample/AllPossibleFullBinaryTrees/obj/Debug/net8.0/AllPossibleFullBinaryTrees.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DecodeString/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EliminationGame/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FibonacciNumber/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NumberOfDigitOne/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -65,31 +65,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.AllPossibleFullBinaryTrees.executor": "Debug",
-    ".NET Project.EliminationGame.executor": "Debug",
-    ".NET Project.NumberOfDigitOne.executor": "Debug",
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.AllPossibleFullBinaryTrees.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Project.EliminationGame.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Project.NumberOfDigitOne.executor&quot;: &quot;Debug&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\dince\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\dince\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\dince\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\dince\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\dince\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\dince\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.EliminationGame">
     <configuration name="AllPossibleFullBinaryTrees" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -328,7 +328,8 @@
       <workItem from="1704698138420" duration="946000" />
       <workItem from="1704779221892" duration="4325000" />
       <workItem from="1705037681856" duration="4135000" />
-      <workItem from="1705296876827" duration="3332000" />
+      <workItem from="1705296876827" duration="4551000" />
+      <workItem from="1705471008287" duration="2409000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1702639898024</created>
@@ -524,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704438135487</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="it is work but out of memory">
+      <option name="closed" value="true" />
+      <created>1705300711166</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1705300711166</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +558,8 @@
     <MESSAGE value="Accept with Beats 100.00% of users with C#" />
     <MESSAGE value="Accept" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="it is work but out of memory" />
+    <option name="LAST_COMMIT_MESSAGE" value="it is work but out of memory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,19 +654,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/EliminationGame/Program.cs</url>
-          <line>39</line>
-          <properties documentPath="C:\Users\dince\RiderProjects\RecursiveExample\EliminationGame\Program.cs" initialLine="35" containingFunctionPresentation="Method 'LastRemaining'">
-            <startOffsets>
-              <option value="944" />
-            </startOffsets>
-            <endOffsets>
-              <option value="960" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
